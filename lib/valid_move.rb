@@ -9,7 +9,7 @@ def valid_move?(board, index)
     return true
   else false
   end
-end 
+end
 #code your #valid_move? method here
 
 
