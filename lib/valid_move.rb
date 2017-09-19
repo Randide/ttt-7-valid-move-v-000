@@ -5,10 +5,11 @@ def valid_move?(board, index)
     else
       return true
     end
-    if position_taken == true
-      return true
-    else false
-  end# 
+  if position_taken == true
+    return true
+  else false
+  end
+end 
 #code your #valid_move? method here
 
 
